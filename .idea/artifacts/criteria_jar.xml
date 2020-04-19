@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="criteria:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/criteria_jar</output-path>
+    <root id="archive" name="criteria.jar">
+      <element id="module-output" name="criteria" />
+    </root>
+  </artifact>
+</component>

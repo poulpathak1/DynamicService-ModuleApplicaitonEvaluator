@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="criminalcheck.CriminalRecordCheckTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-04-15T23:53:39" hostname="DESKTOP-743I6CH" time="0.023">
+  <properties/>
+  <testcase name="checkResultClass()" classname="criminalcheck.CriminalRecordCheckTest" time="0.016"/>
+  <testcase name="canary()" classname="criminalcheck.CriminalRecordCheckTest" time="0.001"/>
+  <testcase name="checkResult()" classname="criminalcheck.CriminalRecordCheckTest" time="0.001"/>
+  <testcase name="checkCriteriaName()" classname="criminalcheck.CriminalRecordCheckTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

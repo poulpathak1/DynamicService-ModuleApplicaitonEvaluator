@@ -1,0 +1,13 @@
+X canary
+X checkPreviousEmployment
+X checkCriminalRecord
+X checkCreditRecord
+X checkSecurityClearance
+X checkCriteriaName
+X check if getCriteriaTest() returns list of all criteria
+X check if getSelectedCriteriaTest returns list of selected criteria
+X check evaluateApplicant with NoCriteria
+X check evaluateApplicant with OnePassingCriteria
+X check evaluateApplicant with OneFailingCriteria
+X check evaluateApplicant with TwoFailingCriteria
+X check evaluateApplicant with ThreeCriteria

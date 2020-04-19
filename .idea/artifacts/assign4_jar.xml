@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="assign4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/assign4_jar</output-path>
+    <root id="archive" name="assign4.jar">
+      <element id="module-output" name="assign4" />
+      <element id="module-output" name="test" />
+      <element id="module-output" name="applicant" />
+      <element id="module-output" name="criteria" />
+      <element id="module-output" name="criteriaprovider" />
+      <element id="module-output" name="evaluation" />
+    </root>
+  </artifact>
+</component>
